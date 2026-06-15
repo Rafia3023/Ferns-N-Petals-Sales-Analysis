@@ -106,7 +106,7 @@ Performed analytical reporting using Pivot Tables and Excel functions:
 
 ### 4. Power BI Dashboard Development
 Created an interactive dashboard including:
-
+![Dashboard Screenshot](image/FNP-dashboard.png)
 - Total Revenue KPI
 - Average Customer Spending KPI
 - Order Count KPI
